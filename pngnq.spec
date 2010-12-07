@@ -1,6 +1,6 @@
 %define name	pngnq
 %define version	1.0
-%define release	1
+%define release	2
 
 Name:		%{name}
 Summary:	Pngnq is a tool for quantizing PNG images in RGBA format
