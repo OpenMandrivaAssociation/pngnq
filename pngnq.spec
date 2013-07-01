@@ -1,5 +1,5 @@
 Name:		pngnq
-Summary:	Pngnq is a tool for quantizing PNG images in RGBA format
+Summary:	Tool for quantizing PNG images in RGBA format
 Version:	1.1
 Release:	2
 License:	BSD with advertising and MIT and BSD
