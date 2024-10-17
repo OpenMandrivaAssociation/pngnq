@@ -4,7 +4,7 @@ Version:	1.1
 Release:	4
 License:	BSD with advertising and MIT and BSD
 Group:		Graphics
-URL:		http://pngnq.sourceforge.net/
+URL:		https://pngnq.sourceforge.net/
 Source0:	http://dl.sf.net/%{name}/%{name}-%{version}.tar.gz
 Patch0:		pngnq-libpng15.patch
 BuildRequires:	pkgconfig(libpng)
